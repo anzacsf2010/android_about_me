@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Andy St Fort</string>
+    <string name="yellow_star">yellow star</string>
+    <string name="bio">I am Andy St Fort. I am a technical account manager at New Relic. I am also a full stack web developer with some experience in mobile development.
+         \n \nI have created the following apps:
+\n \n
+	Ayudante de tu hogar (ASP.NET Core MVC with Entity Framework)
+	\nA website with the intention of creating a fast and secure connection between experts and customers who need help in different areas of the home. Our dedicated team diligently adapts the unique requirements of your project with qualified experts who not only have experience, but are also committed to transforming their vision into reality.
+\n \n
+	Go web service for Ayudante de tu Hogar
+	\n This app is written in Go and fetches the postgres database for the categories of services, projects, subcategories of services, users and technical specialists for these projects. This web service is intended to be used for the mobile app versions of the same website, as well as www.andystfort.com for the purpose of admin and management of site assets.</string>
+    <string name="nickname">Name</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
